@@ -11,3 +11,7 @@
 TGS2019 出展作品　チーム作品  
 
 製作期間 4月～9月  
+
+開発担当ミニゲーム・会話シーン内での選択肢  
+
+https://github.com/masapo0315/LoversQuickDraw
