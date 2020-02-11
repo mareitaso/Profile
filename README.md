@@ -8,10 +8,11 @@
 2021年3月卒業予定
 
 # 今回の作品  
-TGS2019 出展作品　チーム作品  
+WeAre TECH.C. 出展作品　チーム作品  
 
-製作期間 4月～9月  
+製作期間 10月～2月  
 
-開発担当ミニゲーム・会話シーン内での選択肢のスクリプト  
+開発担当
+プログラムリーダー・統合・メインシステム・キャラクター・HPなどのUI・
 
-https://github.com/masapo0315/LoversQuickDraw
+https://github.com/yatao0526/-Rhythm-Fighters
