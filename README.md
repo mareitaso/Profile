@@ -15,6 +15,8 @@
 開発担当
 プログラムリーダー・統合・メインシステム・カードの効果・カードアニメーション
 
+https://github.com/mareitaso/BouzuMekuri
+
 # 過去の作品
 2020年 WeAre TECH.C. 出展作品　チーム制作
 
@@ -23,8 +25,7 @@
 開発担当
 プログラムリーダー・統合・メインシステム・キャラクター・HPなどのUI
 
-https://github.com/mareitaso/BouzuMekuri
-
+https://github.com/yatao0526/-Rhythm-Fighters
 
 2019年　東京ゲームショウ　出展作品　チーム制作
 
